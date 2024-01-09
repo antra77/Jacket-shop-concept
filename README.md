@@ -4,7 +4,7 @@
 <h2 id="overview">Overview</h2>
 <p>The Jacket Shop Website provides a visually appealing and user-friendly platform for users to explore and purchase different types of jackets.</p>
 <h2 id="demo">Demo</h2>
-<p>Explore the live demo of the Jacket Shop Website: <a href="https://your-demo-url.com">Live Demo</a></p>
+<p>Explore the live demo of the Jacket Shop Website: <a href="https://antra77.github.io/Jacket-shop-concept/">Live Demo</a></p>
 <h2 id="features">Features</h2>
 <ul>
 <li><strong>Product Showcase:</strong> Browse through a variety of jackets with images and descriptions.</li>
